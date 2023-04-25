@@ -1,1 +1,1 @@
-const test = ["\"user1\"","\"user4\""];
+const test = ["user1","user4"];
